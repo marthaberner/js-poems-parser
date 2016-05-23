@@ -73,6 +73,7 @@ tonight in Possum Land
 
 # Setup
 
-* Fork
-* Clone
-* Put all work on a branch called `v1`
+* Fork / Clone
+* npm install
+* Put all work on a branch called `v1` `git checkout -b v1`
+* Run tests `npm test`
