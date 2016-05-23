@@ -1,7 +1,7 @@
 # JS Poem Parser
 
-You work for a book company that publishes poems.  You just inherited a treasure trove of poems in the public domain.
-Your job is to provide some stats about the poems.
+You work for a book company that publishes poems.  You just inherited a treasure
+trove of poems in the public domain. Your job is to provide some stats about the poems.
 
 Each poem looks like this:
 
@@ -28,7 +28,7 @@ The poem contains:
 * The poem
 * Each verse is separated by a blank line
 
-## Challenge
+## Challenge 1
 
 Write code that can:
 
@@ -38,22 +38,10 @@ Write code that can:
 
 ```
 {
-  "Henry Lawson" : {
-    "In Possum Land" : {
-      verses: 2,
-      lines: 8,
-    },
-    "I'll Tell You What You Wanderers" : {
-      verses: 1,
-      lines: 8,
-    },
-  },
-  "Robert Lee Frost" : {
-    "The Lockless Door" : {
-      verses: 5,
-      lines: 20,
-    }
-  }
+  'author' : 'Henry Lawson',
+  'title' : 'In Possum Land',
+  'verses' : 2,
+  'lines' : 8
 }
 ```
 
