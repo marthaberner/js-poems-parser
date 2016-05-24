@@ -1,4 +1,4 @@
-var poem = 'In Possum Land\n'+
+var poem1 = 'In Possum Land\n'+
   'Henry Lawson\n'+
   '\n'+
   'In Possum Land the nights are fair,\n'+
@@ -11,4 +11,4 @@ var poem = 'In Possum Land\n'+
   'Ah! would that we could make our bed\n'+
   'tonight in Possum Land';
 
-  module.exports = poem;
+  module.exports = poem1;
